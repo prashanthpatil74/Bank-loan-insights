@@ -42,9 +42,4 @@ Visual exploration of loan data including:
 - Good vs Bad loan segregation
 - Responsive and filterable UI
 
-## 📎 Usage
 
-1. Clone this repository
-2. Open the .pbix file in Power BI Desktop
-3. Refresh the data (if source available) or explore the visuals
-4. Apply filters (State, Grade, Good/Bad Loan) to interact with the dashboard
